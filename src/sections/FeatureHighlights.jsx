@@ -73,7 +73,7 @@ export function FeatureHighlights() {
 							<img src={highlight2} alt="Qulture Circle" />
 							<div className="grid gap-[1rem] px-[1.5rem] pb-[1rem] md:max-w-[19.9rem] mx-auto mt-[1rem]">
 								<h1 className="text-[clamp(1.1rem,_4vw,_1.5rem)] font-[600]">
-									Culture Circle
+									Qulture Circle
 								</h1>
 								<p className="text-[clamp(0.875rem,_4vw,_1rem)]">
 									Join or create communities to keep the conversation going
